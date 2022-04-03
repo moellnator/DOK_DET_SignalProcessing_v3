@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1259
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DOK_DET_SignalProcessing_v3", "DOK_DET_SignalProcessing_v3\DOK_DET_SignalProcessing_v3.vbproj", "{C2C55587-452F-4E24-B54C-4FE397D91771}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DOK_DET_SignalProcessing_v3.Test", "DOK_DET_SignalProcessing_v3.Test\DOK_DET_SignalProcessing_v3.Test.vbproj", "{A1D954EF-DBB3-4487-AACD-3CB01C5A6586}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C2C55587-452F-4E24-B54C-4FE397D91771}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2C55587-452F-4E24-B54C-4FE397D91771}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2C55587-452F-4E24-B54C-4FE397D91771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D954EF-DBB3-4487-AACD-3CB01C5A6586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D954EF-DBB3-4487-AACD-3CB01C5A6586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D954EF-DBB3-4487-AACD-3CB01C5A6586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D954EF-DBB3-4487-AACD-3CB01C5A6586}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
